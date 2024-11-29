@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# / Python / English / Music
 - 🌱 I’m currently learning ASP.NET 9
 - 💞️ I’m looking to collaborate on SuperComputers
-- 📫 How to reach me RiseTurkTurk@gmail.com 
+- 📫 How to reach me RiseTurkTurk@gmail.com / t.me/Al_Kharazmi
 - 😄 Pronouns: He / His not She / her
 - ⚡ Fun fact: ...
 
